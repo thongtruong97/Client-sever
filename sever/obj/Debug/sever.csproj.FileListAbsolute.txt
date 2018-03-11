@@ -1,0 +1,6 @@
+C:\Users\Thong\Desktop\client-sever\client-sever\sever\bin\Debug\sever.exe.config
+C:\Users\Thong\Desktop\client-sever\client-sever\sever\bin\Debug\sever.exe
+C:\Users\Thong\Desktop\client-sever\client-sever\sever\bin\Debug\sever.pdb
+C:\Users\Thong\Desktop\client-sever\client-sever\sever\obj\Debug\sever.csprojResolveAssemblyReference.cache
+C:\Users\Thong\Desktop\client-sever\client-sever\sever\obj\Debug\sever.exe
+C:\Users\Thong\Desktop\client-sever\client-sever\sever\obj\Debug\sever.pdb
